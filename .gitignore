@@ -1,0 +1,7 @@
+node_modules/
+playwright-report/
+test-results/
+.playwright-mcp/
+output/
+error_user_inventory_page.png
+error_user_test_result.jpeg
